@@ -6,6 +6,10 @@ molssi_devops
 
 A sample repo for the molssi workshop
 
+This repository is currently under development. To do a developmental install, download this repository and type `pip install -e .`
+
+in the repository directory
+
 ### Copyright
 
 Copyright (c) 2019, Owen Madin
