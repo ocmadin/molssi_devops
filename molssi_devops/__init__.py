@@ -4,7 +4,8 @@ A sample repo for the molssi workshop
 """
 
 # Add imports here
-from .molssi_math import *
+from .molssi_math import canvas
+from .utils import title_case
 
 # Handle versioneer
 from ._version import get_versions
